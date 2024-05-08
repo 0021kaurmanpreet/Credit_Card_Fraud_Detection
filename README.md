@@ -2,7 +2,7 @@
 
 **Introduction :** Credit card fraud is a significant issue in the digital age, affecting consumers and financial institutions worldwide. This project aims to develop robust fraud detection systems to safeguard electronic payment systems and ensure customer trust.
 
-Team Members 
+**Team Members **
 •	Brandon Sharp
 •	Manpreet Kaur
 •	Shivani Shrivastav
